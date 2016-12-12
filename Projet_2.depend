@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1481531582 source:c:\users\vanengelandt théo\desktop\projet_2\exit.c
+	<stdio.h>
+	<stdlib.h>
+
+1481535003 source:c:\users\vanengelandt théo\desktop\projet_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481532954 source:c:\users\vanengelandt théo\desktop\projet_2\testascii.c
+	<stdio.h>
+	<stdlib.h>
+
+1481533044 c:\users\vanengelandt théo\desktop\projet_2\prototypes.h
+
+1481533153 source:c:\users\vanengelandt théo\desktop\projet_2\ecrandynamic.c
+
+1481533168 source:c:\users\vanengelandt théo\desktop\projet_2\ecraninteractif.c
+
+1481538266 source:c:\users\vanengelandt théo\desktop\projet_2\ecranstatic.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481538184 c:\users\vanengelandt théo\desktop\projet_2\prototipestatic.h
+
+1481538161 source:c:\users\vanengelandt théo\desktop\projet_2\centrerimage.c
+	<stdio.h>
+	<stdlib.h>
+
