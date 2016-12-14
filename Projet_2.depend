@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1481555186 source:c:\users\vanengelandt théo\desktop\projet_2\exit.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481648626 source:c:\users\vanengelandt théo\desktop\projet_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Prototypes.h"
+
+1481555186 source:c:\users\vanengelandt théo\desktop\projet_2\testascii.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481638425 c:\users\vanengelandt théo\desktop\projet_2\prototypes.h
+
+1481642100 source:c:\users\vanengelandt théo\desktop\projet_2\ecrandynamic.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeDynamic.h"
+
+1481555186 source:c:\users\vanengelandt théo\desktop\projet_2\ecraninteractif.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481734689 source:c:\users\vanengelandt théo\desktop\projet_2\ecranstatic.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481721336 c:\users\vanengelandt théo\desktop\projet_2\prototipestatic.h
+
+1481707440 source:c:\users\vanengelandt théo\desktop\projet_2\centrerimage.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481734604 source:c:\users\vanengelandt théo\desktop\projet_2\affichertableau.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481737937 source:c:\users\vanengelandt théo\desktop\projet_2\affectertab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PrototipeStatic.h"
+
+1481634101 source:c:\users\vanengelandt théo\desktop\projet_2\initialisationstruct.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481644092 c:\users\vanengelandt théo\desktop\projet_2\prototipedynamic.h
+
+1481721277 source:c:\users\vanengelandt théo\desktop\projet_2\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+	"PrototipeDynamic.h"
+
+1481734923 source:c:\users\vanengelandt théo\desktop\projet_2\allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+	"PrototipeDynamic.h"
+
