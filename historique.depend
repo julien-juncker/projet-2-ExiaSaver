@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1481809419 source:/home/dom-dom/Bureau/historique/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"log.h"
+
+1481720657 /home/dom-dom/Bureau/historique/typeEcran.h
+
+1481809320 source:/home/dom-dom/Bureau/historique/log.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1481809327 /home/dom-dom/Bureau/historique/log.h
+

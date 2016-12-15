@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1481746420 source:/home/julien/Bureau/Projet_2_Linux/AffecterTab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PrototipeStatic.h"
+
+1481788078 /home/julien/Bureau/Projet_2_Linux/PrototipeStatic.h
+
+1481745477 source:/home/julien/Bureau/Projet_2_Linux/AfficherTableau.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481745785 source:/home/julien/Bureau/Projet_2_Linux/allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481745754 source:/home/julien/Bureau/Projet_2_Linux/CentrerImage.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481745754 /home/julien/Bureau/Projet_2_Linux/Prototypes.h
+
+1481745754 source:/home/julien/Bureau/Projet_2_Linux/EcranStatic.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481745754 source:/home/julien/Bureau/Projet_2_Linux/exit.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481745860 source:/home/julien/Bureau/Projet_2_Linux/Initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481745883 source:/home/julien/Bureau/Projet_2_Linux/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Prototypes.h"
+
+1481806354 source:/home/theo/Bureau/Projet_2_Linux/AffecterTab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PrototipeStatic.h"
+
+1481799208 /home/theo/Bureau/Projet_2_Linux/PrototipeStatic.h
+
+1481807236 source:/home/theo/Bureau/Projet_2_Linux/AfficherTableau.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	"PrototipeStatic.h"
+
+1481800013 source:/home/theo/Bureau/Projet_2_Linux/allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481807020 source:/home/theo/Bureau/Projet_2_Linux/CentrerImage.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481789825 /home/theo/Bureau/Projet_2_Linux/Prototypes.h
+
+1481807287 source:/home/theo/Bureau/Projet_2_Linux/EcranStatic.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<errno.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481745754 source:/home/theo/Bureau/Projet_2_Linux/exit.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481800174 source:/home/theo/Bureau/Projet_2_Linux/Initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481804272 source:/home/theo/Bureau/Projet_2_Linux/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Prototypes.h"
+	<unistd.h>
+
+1481796465 source:/home/theo/Bureau/Projet_2_Linux/Stat.c
+
+1481804194 source:/home/theo/Bureau/Projet_2_Linux/TestASCII.c
+	<stdlib.h>
+	<stdio.h>
+	"Prototypes.h"
+
+1481806354 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/AffecterTab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"PrototipeStatic.h"
+
+1481807779 /home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/PrototipeStatic.h
+
+1481807236 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/AfficherTableau.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	"PrototipeStatic.h"
+
+1481800013 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/allocation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481807020 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/CentrerImage.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481789825 /home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/Prototypes.h
+
+1481811374 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/EcranStatic.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<errno.h>
+	"Prototypes.h"
+	"PrototipeStatic.h"
+
+1481807785 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/exit.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1481800174 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/Initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	"PrototipeStatic.h"
+
+1481811484 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<time.h>
+	"Prototypes.h"
+
+1481796465 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/Stat.c
+
+1481804194 source:/home/theo/Bureau/Projet_2_Linux/EXIASAVER_HOME/TestASCII.c
+	<stdlib.h>
+	<stdio.h>
+	"Prototypes.h"
+
